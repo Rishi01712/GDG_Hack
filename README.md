@@ -114,26 +114,3 @@ It does not bypass Android security policies or collect personal user data.
   * **Deployment Link:** [https://docs.google.com/document/d/1HUMvIvHtCklXA_VM_p-Y7S8AifCmO9A2/edit?usp=drive_link&ouid=101882663731378130755&rtpof=true&sd=true](https://docs.google.com/document/d/1HUMvIvHtCklXA_VM_p-Y7S8AifCmO9A2/edit?usp=drive_link&ouid=101882663731378130755&rtpof=true&sd=true)
   * **Demo Link:** [https://drive.google.com/file/d/1Td27klUisj5VBaMfo19Dg8hVJDJ1erhH/view?usp=drive_link](https://drive.google.com/file/d/1Td27klUisj5VBaMfo19Dg8hVJDJ1erhH/view?usp=drive_link)
 
-
----
-- **Contact Information**
-  - **Email:** kaushik.mv06@gmail.com  
-  - **Phone:** +91 8904676224  
-  - **Email:** prannavcse@gmail.com  
-  - **Phone:** +91 9884811596
-
----
-
-##  Author
-
-  * **V Rishidharan** – Testing & Deployment
-  * **V. G. Pranav** – Full Stack Engineering
-  * **Tenin Christopher** – AI / ML
-  * **V Kaushik Muthuraman** – UI / UX Design
-
-
----
-
-
-
-
